@@ -191,7 +191,7 @@
   {
     "section_id": "pg025_sec002",
     "href": "pg025_sec002.html",
-    "title": "I listen and respond to simple sentences",
+    "title": "I listen/observe and respond to simple sentences",
     "chapter_id": "toc_pg025_sec002",
     "level": 2
   },
@@ -212,7 +212,7 @@
   {
     "section_id": "pg027_sec002",
     "href": "pg027_sec002.html",
-    "title": "I use different sounds to form new words",
+    "title": "I use different sounds to form new words / I finger spell letters to form new words",
     "chapter_id": "toc_pg027_sec002",
     "level": 2
   },
@@ -233,7 +233,7 @@
   {
     "section_id": "pg029_sec002",
     "href": "pg029_sec002.html",
-    "title": "I delete sounds at the beginning of words",
+    "title": "I delete sounds at the beginning of words / I delete letters at the beginning of words and sign the words",
     "chapter_id": "toc_pg029_sec002",
     "level": 2
   },
@@ -254,7 +254,7 @@
   {
     "section_id": "pg031_sec002",
     "href": "pg031_sec002.html",
-    "title": "I delete sounds at the end of words",
+    "title": "I delete sounds at the end of words / I delete letters at the end of word and sign the words",
     "chapter_id": "toc_pg031_sec002",
     "level": 2
   },
@@ -275,7 +275,7 @@
   {
     "section_id": "pg034_sec001",
     "href": "pg034_sec001.html",
-    "title": "I add sounds at the beginning of words",
+    "title": "I add sounds at the beginning of words / I finger spell additional letters at the beginning of words",
     "chapter_id": "toc_pg034_sec001",
     "level": 2
   },
@@ -296,7 +296,7 @@
   {
     "section_id": "pg036_sec002",
     "href": "pg036_sec002.html",
-    "title": "I add sounds at the end of words",
+    "title": "I add sounds at the end of words / I finger spell letters at the end of words",
     "chapter_id": "toc_pg036_sec002",
     "level": 2
   },
@@ -310,7 +310,7 @@
   {
     "section_id": "pg037_sec002",
     "href": "pg037_sec002.html",
-    "title": "I replace initial sounds to form new words",
+    "title": "I replace initial sounds to form new words / I replace initial letters to sign new words",
     "chapter_id": "toc_pg037_sec002",
     "level": 2
   },
@@ -338,7 +338,7 @@
   {
     "section_id": "pg040_sec002",
     "href": "pg040_sec002.html",
-    "title": "I replace middle sounds to form new words",
+    "title": "I replace middle sounds to form new words / I replace middle letters to sign new words",
     "chapter_id": "toc_pg040_sec002",
     "level": 2
   },
@@ -359,7 +359,7 @@
   {
     "section_id": "pg043_sec001",
     "href": "pg043_sec001.html",
-    "title": "I replace final sounds to form new words",
+    "title": "I replace final sounds to form new words / I replace final letters to sign new words",
     "chapter_id": "toc_pg043_sec001",
     "level": 2
   },
@@ -376,13 +376,6 @@
     "title": "Unit Three: Letter-sound relationships",
     "chapter_id": "toc_pg045_sec001",
     "level": 1
-  },
-  {
-    "section_id": "pg045_sec002",
-    "href": "pg045_sec002.html",
-    "title": "I pronounce English sounds in written words",
-    "chapter_id": "toc_pg045_sec002",
-    "level": 2
   },
   {
     "section_id": "pg046_sec001",
@@ -555,7 +548,7 @@
   {
     "section_id": "pg060_sec002",
     "href": "pg060_sec002.html",
-    "title": "I read words with letter sound ch",
+    "title": "I read words with letter sound ch / letters ch",
     "chapter_id": "toc_pg060_sec002",
     "level": 2
   },
@@ -569,7 +562,7 @@
   {
     "section_id": "pg061_sec002",
     "href": "pg061_sec002.html",
-    "title": "I read words with letter sound sh",
+    "title": "I read words with letter sound sh / letters sh",
     "chapter_id": "toc_pg061_sec002",
     "level": 2
   },
@@ -583,7 +576,7 @@
   {
     "section_id": "pg062_sec002",
     "href": "pg062_sec002.html",
-    "title": "I read words with letter sound th",
+    "title": "I read words with letter sound th / letters th",
     "chapter_id": "toc_pg062_sec002",
     "level": 2
   },
@@ -597,16 +590,16 @@
   {
     "section_id": "pg064_sec001",
     "href": "pg064_sec001.html",
-    "title": "Words with letter sound ph",
+    "title": "I read words with letter sound ph / letters ph",
     "chapter_id": "toc_pg064_sec001",
-    "level": 3
+    "level": 2
   },
   {
     "section_id": "pg065_sec001",
     "href": "pg065_sec001.html",
-    "title": "Words with letter sound ck",
+    "title": "I read words with letter sound ck / letters ck",
     "chapter_id": "toc_pg065_sec001",
-    "level": 3
+    "level": 2
   },
   {
     "section_id": "pg066_sec001",
@@ -618,23 +611,23 @@
   {
     "section_id": "pg066_sec002",
     "href": "pg066_sec002.html",
-    "title": "I read words with letter sound ff",
+    "title": "I read words with letter sound ff / letters ff",
     "chapter_id": "toc_pg066_sec002",
     "level": 2
   },
   {
     "section_id": "pg067_sec001",
     "href": "pg067_sec001.html",
-    "title": "Words with letter sound ll",
+    "title": "I read words with letter sound ll / letters ll",
     "chapter_id": "toc_pg067_sec001",
-    "level": 3
+    "level": 2
   },
   {
     "section_id": "pg068_sec001",
     "href": "pg068_sec001.html",
-    "title": "Words with letter sound ss",
+    "title": "I read words with letter sound ss / letters ss",
     "chapter_id": "toc_pg068_sec001",
-    "level": 3
+    "level": 2
   },
   {
     "section_id": "pg069_sec001",
