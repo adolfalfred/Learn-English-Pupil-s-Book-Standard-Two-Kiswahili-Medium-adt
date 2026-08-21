@@ -7,9 +7,6 @@
   function values() { return controls.map(function (control) { return control.value; }); }
   function updateStatus() {
     var filled = controls.filter(function (control) { return String(control.value).trim().length > 0; }).length;
-    section.querySelectorAll(".response-status").forEach(function (status) {
-      status.textContent = filled ? filled + " response" + (filled === 1 ? "" : "s") + " saved on this page." : "";
-    });
     section.dataset.responseComplete = controls.length && filled === controls.length ? "true" : "false";
   }
   try {

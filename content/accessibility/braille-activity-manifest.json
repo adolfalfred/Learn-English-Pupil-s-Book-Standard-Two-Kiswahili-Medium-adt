@@ -17,7 +17,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "textarea",
-      "sharedInclusiveInstruction": "Look at the following pictures and talk about them. Item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -53,8 +53,8 @@
       "taskType": "picture-supported-language-response",
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
-      "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sourceControlType": "textarea",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -90,8 +90,8 @@
       "taskType": "picture-supported-language-response",
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
-      "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sourceControlType": "textarea",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -128,7 +128,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -165,44 +165,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
-      "inputMethods": [
-        "keyboard",
-        "braille-display",
-        "braille-keyboard",
-        "operating-system-braille-input"
-      ],
-      "nativeBrailleInputAvailable": true,
-      "tactileResourceRequired": false,
-      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg010_im002_audio_description"
-      ],
-      "brailleCode": null,
-      "translationTable": null,
-      "sixKeyInputEnabled": false,
-      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
-      "educatorReview": {
-        "approvedInclusiveInstruction": null,
-        "approvedBrailleCode": null,
-        "approvedTranslationTable": null,
-        "reviewer": null,
-        "reviewDate": null,
-        "notes": null
-      }
-    },
-    {
-      "activityId": "pg010-sec001-response-item-3",
-      "href": "pg010_sec001.html",
-      "sectionId": "pg010_sec001",
-      "sectionTitle": "Singular and plural forms - word pairs and pictures",
-      "sourcePdfPage": 10,
-      "printedPage": "4",
-      "taskType": "picture-supported-language-response",
-      "expectedResponseCount": 1,
-      "expectedResponseType": "text-entered-by-keyboard-or-braille",
-      "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -239,7 +202,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -276,7 +239,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (e). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (e)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -313,7 +276,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (f). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -350,7 +313,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (g). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (g)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -387,7 +350,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (h). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (h)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -424,7 +387,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (i). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (i)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -461,7 +424,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (j). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (j)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -498,7 +461,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (k). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (k)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -535,7 +498,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -572,7 +535,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -609,7 +572,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -646,7 +609,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (e). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (e)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -683,7 +646,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -720,7 +683,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -757,7 +720,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -794,7 +757,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -831,7 +794,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (e). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (e)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -868,7 +831,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -905,7 +868,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -942,7 +905,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -979,7 +942,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1016,7 +979,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (e). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (e)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1053,7 +1016,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (f). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1090,7 +1053,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1127,7 +1090,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1164,7 +1127,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1201,7 +1164,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1238,7 +1201,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1249,7 +1212,7 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
       "visualDescriptionTargetIds": [
-        "pg017_im001_audio_description"
+        "pg017_im002_audio_description"
       ],
       "brailleCode": null,
       "translationTable": null,
@@ -1275,7 +1238,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1286,7 +1249,7 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
       "visualDescriptionTargetIds": [
-        "pg017_im001_audio_description"
+        "pg017_im002_audio_description"
       ],
       "brailleCode": null,
       "translationTable": null,
@@ -1312,7 +1275,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1349,7 +1312,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1386,7 +1349,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (e). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (e)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1423,7 +1386,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (f). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1460,7 +1423,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (g). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (g)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1497,7 +1460,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (h). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (h)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1534,7 +1497,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (i). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (i)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1571,7 +1534,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1608,7 +1571,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1645,7 +1608,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1682,7 +1645,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1719,7 +1682,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (e). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (e)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1756,7 +1719,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (f). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1793,7 +1756,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (g). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (g)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1830,7 +1793,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (h). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (h)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1867,7 +1830,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (i). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (i)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1904,7 +1867,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1941,7 +1904,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -1978,7 +1941,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2015,7 +1978,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2052,7 +2015,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 1.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 1.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2062,9 +2025,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg024_im004_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -2089,7 +2050,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 10.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 10.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2099,9 +2060,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg024_im004_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -2126,7 +2085,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 2.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 2.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2136,9 +2095,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg024_im004_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -2163,7 +2120,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 11.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 11.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2173,9 +2130,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg024_im004_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -2200,7 +2155,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 3.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 3.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2210,9 +2165,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg024_im004_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -2237,7 +2190,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 12.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 12.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2247,9 +2200,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg024_im004_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -2274,7 +2225,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 4.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 4.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2284,9 +2235,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg024_im004_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -2311,7 +2260,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 13.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 13.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2321,9 +2270,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg024_im004_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -2348,7 +2295,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 5.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 5.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2358,9 +2305,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg024_im004_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -2385,7 +2330,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 14.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 14.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2395,9 +2340,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg024_im004_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -2422,7 +2365,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 6.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 6.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2432,9 +2375,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg024_im004_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -2459,7 +2400,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 15.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 15.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2469,9 +2410,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg024_im004_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -2496,7 +2435,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 7.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 7.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2506,9 +2445,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg024_im004_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -2533,7 +2470,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 16.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 16.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2543,9 +2480,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg024_im004_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -2570,7 +2505,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 8.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 8.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2580,9 +2515,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg024_im004_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -2607,7 +2540,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 17.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 17.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2617,9 +2550,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg024_im004_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -2644,7 +2575,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 9.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 9.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2654,9 +2585,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg024_im004_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -2681,7 +2610,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Change each of the 18 words to its requested singular or plural form. Item 18.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 18.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2691,9 +2620,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg024_im004_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -2718,7 +2645,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2728,9 +2655,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg025_im001_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -2755,7 +2680,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2765,9 +2690,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg025_im001_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -2792,7 +2715,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2802,9 +2725,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg025_im001_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -2829,7 +2750,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (e)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2839,9 +2760,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg025_im001_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -2866,7 +2785,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (e). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2876,9 +2795,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg025_im001_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -2903,7 +2820,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (f). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (g)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2913,9 +2830,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg025_im001_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -2940,7 +2855,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (g). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (h)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -2950,46 +2865,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg025_im001_audio_description"
-      ],
-      "brailleCode": null,
-      "translationTable": null,
-      "sixKeyInputEnabled": false,
-      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
-      "educatorReview": {
-        "approvedInclusiveInstruction": null,
-        "approvedBrailleCode": null,
-        "approvedTranslationTable": null,
-        "reviewer": null,
-        "reviewDate": null,
-        "notes": null
-      }
-    },
-    {
-      "activityId": "pg025-sec001-response-item-8",
-      "href": "pg025_sec001.html",
-      "sectionId": "pg025_sec001",
-      "sectionTitle": "Exercise 1 - plural sentences",
-      "sourcePdfPage": 25,
-      "printedPage": "19",
-      "taskType": "word-formation",
-      "expectedResponseCount": 1,
-      "expectedResponseType": "text-entered-by-keyboard-or-braille",
-      "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (h). Use a keyboard or Braille to enter the response.",
-      "inputMethods": [
-        "keyboard",
-        "braille-display",
-        "braille-keyboard",
-        "operating-system-braille-input"
-      ],
-      "nativeBrailleInputAvailable": true,
-      "tactileResourceRequired": false,
-      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg025_im001_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -3014,7 +2890,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3049,7 +2925,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3084,7 +2960,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3119,7 +2995,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3154,7 +3030,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (e). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (e)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3189,7 +3065,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3226,7 +3102,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3263,7 +3139,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3300,7 +3176,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3337,7 +3213,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3374,7 +3250,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3411,7 +3287,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3448,7 +3324,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3485,7 +3361,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (e). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (e)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3522,7 +3398,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (f). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3559,7 +3435,7 @@
       "expectedResponseCount": 10,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the 10 responses requested in this section, in source order. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Enter the 10 responses requested in this section, in source order.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3569,9 +3445,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg029_im002_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -3596,7 +3470,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures using the words formed by deleting the first sound. Item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3633,7 +3507,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures using the words formed by deleting the first sound. Item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3670,7 +3544,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures using the words formed by deleting the first sound. Item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3707,7 +3581,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures using the words formed by deleting the first sound. Item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3744,7 +3618,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures using the words formed by deleting the first sound. Item (e). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (e)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3781,7 +3655,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures using the words formed by deleting the first sound. Item (f). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3818,7 +3692,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures using the words formed by deleting the first sound. Item (g). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (g)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3855,7 +3729,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures using the words formed by deleting the first sound. Item (h). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (h)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3892,7 +3766,7 @@
       "expectedResponseCount": 11,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Delete the first sound from each of the eleven words in Activity 2. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Delete the first sound from each of the eleven words in Activity 2.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3903,8 +3777,7 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
       "visualDescriptionTargetIds": [
-        "pg030_im001_audio_description",
-        "pg030_im002_audio_description"
+        "pg030_im001_audio_description"
       ],
       "brailleCode": null,
       "translationTable": null,
@@ -3930,7 +3803,7 @@
       "expectedResponseCount": 6,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the 6 responses requested in this section, in source order. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Enter the 6 responses requested in this section, in source order.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3941,7 +3814,6 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
       "visualDescriptionTargetIds": [
-        "pg031_im001_audio_description",
         "pg031_im002_audio_description"
       ],
       "brailleCode": null,
@@ -3968,7 +3840,7 @@
       "expectedResponseCount": 11,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the 11 responses requested in this section, in source order. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Enter the 11 responses requested in this section, in source order.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -3980,7 +3852,6 @@
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
       "visualDescriptionTargetIds": [
         "pg032_im001_audio_description",
-        "pg032_im002_audio_description",
         "pg032_im003_audio_description"
       ],
       "brailleCode": null,
@@ -4007,7 +3878,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item 1.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 1.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4044,7 +3915,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item 2.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 2.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4081,7 +3952,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item 3.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 3.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4118,7 +3989,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item 4.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 4.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4155,7 +4026,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item 5.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 5.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4192,7 +4063,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item 6.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 6.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4229,7 +4100,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item 7.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 7.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4266,7 +4137,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item 8.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 8.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4303,7 +4174,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item 9.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 9.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4340,7 +4211,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item 10.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 10.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4377,7 +4248,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures by adding beginning sounds. Item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4414,7 +4285,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures by adding beginning sounds. Item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4451,7 +4322,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures by adding beginning sounds. Item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4488,7 +4359,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures by adding beginning sounds. Item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4525,7 +4396,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures by adding beginning sounds. Item (e). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (e)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4562,7 +4433,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures by adding beginning sounds. Item (f). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4599,7 +4470,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures by adding beginning sounds. Item (g). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (g)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4636,7 +4507,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the eight pictures by adding beginning sounds. Item (h). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (h)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4673,7 +4544,7 @@
       "expectedResponseCount": 2,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "textarea",
-      "sharedInclusiveInstruction": "Write as many correct words as possible by adding a sound to the beginning of 'and' and 'end'. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Write as many correct words as possible by adding a sound to the beginning of 'and' and 'end'.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4684,7 +4555,6 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
       "visualDescriptionTargetIds": [
-        "pg034_im001_audio_description",
         "pg034_im002_audio_description"
       ],
       "brailleCode": null,
@@ -4711,7 +4581,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4748,7 +4618,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4785,7 +4655,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4822,7 +4692,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4859,7 +4729,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (e). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (e)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4896,7 +4766,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (f). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4933,7 +4803,7 @@
       "expectedResponseCount": 3,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the three words formed by adding a sound to the end of car, far and no. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Enter the three words formed by adding a sound to the end of car, far and no.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4968,7 +4838,7 @@
       "expectedResponseCount": 4,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the four words formed by adding t. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Enter the four words formed by adding t.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -4978,9 +4848,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg037_im001_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -5005,7 +4873,7 @@
       "expectedResponseCount": 4,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "textarea",
-      "sharedInclusiveInstruction": "Write one sentence for each new word. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Write one sentence for each new word.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5015,9 +4883,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg037_im001_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -5042,7 +4908,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5079,7 +4945,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5116,7 +4982,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5153,7 +5019,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the nine continuation pictures in source order. Item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5190,7 +5056,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the nine continuation pictures in source order. Item (e). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (e)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5227,7 +5093,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the nine continuation pictures in source order. Item (f). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5264,7 +5130,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the nine continuation pictures in source order. Item (g). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (g)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5301,7 +5167,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the nine continuation pictures in source order. Item (h). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (h)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5338,7 +5204,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the nine continuation pictures in source order. Item (i). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (i)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5375,7 +5241,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the nine continuation pictures in source order. Item (j). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (j)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5412,7 +5278,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the nine continuation pictures in source order. Item (k). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (k)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5449,7 +5315,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the nine continuation pictures in source order. Item (l). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (l)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5486,7 +5352,7 @@
       "expectedResponseCount": 6,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the six words made by replacing each initial sound in Activity 2. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Enter the six words made by replacing each initial sound in Activity 2.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5523,7 +5389,7 @@
       "expectedResponseCount": 5,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the five words formed by replacing the initial sounds in Activity 3. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Enter the five words formed by replacing the initial sounds in Activity 3.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5534,8 +5400,7 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
       "visualDescriptionTargetIds": [
-        "pg039_im001_audio_description",
-        "pg039_im002_audio_description"
+        "pg039_im001_audio_description"
       ],
       "brailleCode": null,
       "translationTable": null,
@@ -5561,7 +5426,7 @@
       "expectedResponseCount": 5,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the 5 responses requested in this section, in source order. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Enter the 5 responses requested in this section, in source order.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5598,7 +5463,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the three pictures shown on this section. Item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5635,7 +5500,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the three pictures shown on this section. Item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5672,7 +5537,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the three pictures shown on this section. Item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5709,7 +5574,7 @@
       "expectedResponseCount": 7,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the seven words made by replacing each middle sound. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Enter the seven words made by replacing each middle sound.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5720,7 +5585,6 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
       "visualDescriptionTargetIds": [
-        "pg040_im002_audio_description",
         "pg040_im003_audio_description"
       ],
       "brailleCode": null,
@@ -5747,7 +5611,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the three continuation pictures. Item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5784,7 +5648,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the three continuation pictures. Item (e). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (e)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5821,7 +5685,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Name the three continuation pictures. Item (f). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5858,7 +5722,7 @@
       "expectedResponseCount": 9,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the nine words made by replacing their middle sounds. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Enter the nine words made by replacing their middle sounds.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5896,7 +5760,7 @@
       "expectedResponseCount": 7,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the seven words made in Activity 3. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Enter the seven words made in Activity 3.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5907,7 +5771,6 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
       "visualDescriptionTargetIds": [
-        "pg042_im001_audio_description",
         "pg042_im002_audio_description"
       ],
       "brailleCode": null,
@@ -5934,7 +5797,7 @@
       "expectedResponseCount": 8,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the eight Exercise 5 words made with the sound o. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Enter the eight Exercise 5 words made with the sound o.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5945,7 +5808,6 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
       "visualDescriptionTargetIds": [
-        "pg042_im001_audio_description",
         "pg042_im002_audio_description"
       ],
       "brailleCode": null,
@@ -5972,7 +5834,7 @@
       "expectedResponseCount": 8,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the eight Exercise 5 words made with the sound a. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Enter the eight Exercise 5 words made with the sound a.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5983,7 +5845,6 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
       "visualDescriptionTargetIds": [
-        "pg042_im001_audio_description",
         "pg042_im002_audio_description"
       ],
       "brailleCode": null,
@@ -6010,7 +5871,7 @@
       "expectedResponseCount": 10,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the ten words made by replacing their final sounds. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Enter the ten words made by replacing their final sounds.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6021,7 +5882,6 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
       "visualDescriptionTargetIds": [
-        "pg043_im001_audio_description",
         "pg043_im002_audio_description"
       ],
       "brailleCode": null,
@@ -6048,7 +5908,7 @@
       "expectedResponseCount": 7,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the seven new words for Exercise 6. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Enter the seven new words for Exercise 6.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6059,7 +5919,6 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
       "visualDescriptionTargetIds": [
-        "pg043_im001_audio_description",
         "pg043_im002_audio_description"
       ],
       "brailleCode": null,
@@ -6086,7 +5945,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6123,7 +5982,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (f). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6160,7 +6019,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6197,7 +6056,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (g). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (g)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6234,7 +6093,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6271,7 +6130,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (h). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (h)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6308,7 +6167,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6345,7 +6204,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (i). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (i)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6382,7 +6241,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (e). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (e)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6419,7 +6278,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (j). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (j)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6456,7 +6315,7 @@
       "expectedResponseCount": 40,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "textarea",
-      "sharedInclusiveInstruction": "Copy the 40 words in source order. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Copy the 40 words in source order.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6466,10 +6325,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg047_im001_audio_description",
-        "pg047_im002_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -6494,7 +6350,7 @@
       "expectedResponseCount": 10,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Write ten words found in the exact source puzzle. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Write ten words found in the exact source puzzle.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6504,10 +6360,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg047_im001_audio_description",
-        "pg047_im002_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -6532,7 +6385,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6569,7 +6422,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6606,7 +6459,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6643,7 +6496,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6680,7 +6533,7 @@
       "expectedResponseCount": 6,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "For each pair, enter SAME or DIFFERENT. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "For each pair, enter SAME or DIFFERENT.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6717,7 +6570,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "textarea",
-      "sharedInclusiveInstruction": "Enter names of objects and things beginning with cl or bl. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Enter names of objects and things beginning with cl or bl.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6754,7 +6607,7 @@
       "expectedResponseCount": 6,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "textarea",
-      "sharedInclusiveInstruction": "Write one sentence for each of the six given words. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Write one sentence for each of the six given words.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6791,7 +6644,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6828,7 +6681,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6865,7 +6718,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6902,7 +6755,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6939,7 +6792,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -6976,7 +6829,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7013,7 +6866,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7050,7 +6903,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7087,7 +6940,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7124,7 +6977,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7161,7 +7014,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7198,7 +7051,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7235,7 +7088,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7272,7 +7125,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7309,7 +7162,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7346,7 +7199,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7383,7 +7236,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7420,7 +7273,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7457,7 +7310,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7494,7 +7347,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7531,7 +7384,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7568,7 +7421,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7605,7 +7458,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7642,7 +7495,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7679,7 +7532,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7716,7 +7569,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7753,7 +7606,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7790,7 +7643,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7827,7 +7680,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7864,7 +7717,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7901,7 +7754,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7938,7 +7791,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -7975,7 +7828,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8012,7 +7865,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8049,7 +7902,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8086,7 +7939,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8123,7 +7976,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8160,7 +8013,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8197,7 +8050,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8234,7 +8087,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8271,7 +8124,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8308,7 +8161,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8345,7 +8198,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8382,7 +8235,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8419,7 +8272,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8456,7 +8309,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8493,7 +8346,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8530,7 +8383,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8567,7 +8420,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8604,7 +8457,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8641,7 +8494,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8678,7 +8531,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8715,7 +8568,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8752,7 +8605,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8789,7 +8642,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8826,7 +8679,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8863,7 +8716,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8900,7 +8753,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8937,7 +8790,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -8974,7 +8827,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9011,7 +8864,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9048,7 +8901,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9085,7 +8938,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9122,7 +8975,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9159,7 +9012,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9196,7 +9049,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9233,7 +9086,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9270,7 +9123,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9307,7 +9160,7 @@
       "expectedResponseCount": 10,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "textarea",
-      "sharedInclusiveInstruction": "Write the ten sentences from Activity 1. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Write the ten sentences from Activity 1.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9342,7 +9195,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item 1.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 1.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9377,7 +9230,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item 2.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 2.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9412,7 +9265,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item 3.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 3.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9447,7 +9300,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item 4.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 4.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9482,7 +9335,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item 5.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 5.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9517,7 +9370,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer the five questions. Item 1.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 1.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9552,7 +9405,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer the five questions. Item 2.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 2.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9587,7 +9440,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer the five questions. Item 3.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 3.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9622,7 +9475,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer the five questions. Item 4.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 4.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9657,7 +9510,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer the five questions. Item 5.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 5.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9692,7 +9545,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "textarea",
-      "sharedInclusiveInstruction": "Write the four sentences that practise commas. Item 1.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 1.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9727,7 +9580,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "textarea",
-      "sharedInclusiveInstruction": "Write the four sentences that practise commas. Item 2.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 2.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9762,7 +9615,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "textarea",
-      "sharedInclusiveInstruction": "Write the four sentences that practise commas. Item 3.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 3.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9797,7 +9650,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "textarea",
-      "sharedInclusiveInstruction": "Write the four sentences that practise commas. Item 4.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 4.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9832,7 +9685,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer the song question: What day is it today?. Item blank 1. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item blank 1",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9842,9 +9695,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg072_im001_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -9869,7 +9720,7 @@
       "expectedResponseCount": 7,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "select",
-      "sharedInclusiveInstruction": "Enter the seven days in their correct order. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Enter the seven days in their correct order.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9880,7 +9731,6 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
       "visualDescriptionTargetIds": [
-        "pg072_im001_audio_description",
         "pg072_im002_audio_description"
       ],
       "brailleCode": null,
@@ -9907,7 +9757,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item 2.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 2.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9944,7 +9794,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item 3.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 3.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -9981,7 +9831,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item 4.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 4.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -10018,7 +9868,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer questions 5 to 7 from Activity 3. Item 5.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 5.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -10055,7 +9905,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer questions 5 to 7 from Activity 3. Item 6.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 6.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -10092,7 +9942,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer questions 5 to 7 from Activity 3. Item 7.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 7.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -10129,7 +9979,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer what you normally do on each of the seven days. Item (a). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (a)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -10164,7 +10014,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer what you normally do on each of the seven days. Item (b). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (b)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -10199,7 +10049,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer what you normally do on each of the seven days. Item (c). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (c)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -10234,7 +10084,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer what you normally do on each of the seven days. Item (d). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (d)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -10269,7 +10119,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer what you normally do on each of the seven days. Item (e). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (e)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -10304,7 +10154,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer what you normally do on each of the seven days. Item (f). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (f)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -10339,7 +10189,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer what you normally do on each of the seven days. Item (g). Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item (g)",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -10374,7 +10224,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item blank 1. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item blank 1",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -10384,9 +10234,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg077_im003_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -10411,7 +10259,7 @@
       "expectedResponseCount": 7,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer the seven questions about months. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Answer the seven questions about months.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -10421,9 +10269,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg078_im001_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -10448,7 +10294,7 @@
       "expectedResponseCount": 12,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Complete the twelve missing numbers or months in the table. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Complete the twelve missing numbers or months in the table.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -10458,9 +10304,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg078_im001_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -10485,7 +10329,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item 2.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 2.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -10520,7 +10364,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item 3.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 3.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -10555,7 +10399,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item 4.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 4.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -10590,7 +10434,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item 5.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 5.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -10625,7 +10469,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item 6.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 6.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -10660,7 +10504,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item 7.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 7.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -10695,7 +10539,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item 8.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 8.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -10730,7 +10574,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item 9.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 9.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -10765,7 +10609,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item 10.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 10.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -10800,7 +10644,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item 11.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 11.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -10835,7 +10679,7 @@
       "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the response for item 12.. Use a keyboard or Braille to enter the response.",
+      "sharedInclusiveInstruction": "Item 12.",
       "inputMethods": [
         "keyboard",
         "braille-display",
