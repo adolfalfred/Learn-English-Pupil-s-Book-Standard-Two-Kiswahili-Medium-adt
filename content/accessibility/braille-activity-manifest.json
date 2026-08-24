@@ -5489,7 +5489,7 @@
       "expectedResponseCount": 5,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Enter the 5 responses requested in this section, in source order.",
+      "sharedInclusiveInstruction": "Form five new words from hug.",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -5499,9 +5499,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg040_im001_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -5833,9 +5831,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg042_im002_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -5870,9 +5866,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg042_im002_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -5907,9 +5901,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg042_im002_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -5944,9 +5936,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg043_im002_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -5981,9 +5971,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg043_im002_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -6606,9 +6594,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg049_im001_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -6643,9 +6629,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg049_im001_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -6680,9 +6664,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg049_im001_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -9830,9 +9812,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg075_im002_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -9867,9 +9847,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg075_im002_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -9904,9 +9882,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg075_im002_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -9941,9 +9917,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg076_im001_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -9978,9 +9952,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg076_im001_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -10015,9 +9987,7 @@
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
-      "visualDescriptionTargetIds": [
-        "pg076_im001_audio_description"
-      ],
+      "visualDescriptionTargetIds": [],
       "brailleCode": null,
       "translationTable": null,
       "sixKeyInputEnabled": false,
@@ -10312,17 +10282,17 @@
       }
     },
     {
-      "activityId": "pg078-sec001-response-group-1",
+      "activityId": "pg078-sec001-response-item-1",
       "href": "pg078_sec001.html",
       "sectionId": "pg078_sec001",
       "sectionTitle": "Months of the year - questions and number table",
       "sourcePdfPage": 78,
       "printedPage": "72",
       "taskType": "sentence-writing",
-      "expectedResponseCount": 7,
+      "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Answer the seven questions about months.",
+      "sharedInclusiveInstruction": "Item row 2",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -10347,17 +10317,367 @@
       }
     },
     {
-      "activityId": "pg078-sec001-response-group-2",
+      "activityId": "pg078-sec001-response-item-2",
       "href": "pg078_sec001.html",
       "sectionId": "pg078_sec001",
       "sectionTitle": "Months of the year - questions and number table",
       "sourcePdfPage": 78,
       "printedPage": "72",
       "taskType": "sentence-writing",
-      "expectedResponseCount": 12,
+      "expectedResponseCount": 1,
       "expectedResponseType": "text-entered-by-keyboard-or-braille",
       "sourceControlType": "input",
-      "sharedInclusiveInstruction": "Complete the twelve missing numbers or months in the table.",
+      "sharedInclusiveInstruction": "Item row 3",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg078-sec001-response-item-3",
+      "href": "pg078_sec001.html",
+      "sectionId": "pg078_sec001",
+      "sectionTitle": "Months of the year - questions and number table",
+      "sourcePdfPage": 78,
+      "printedPage": "72",
+      "taskType": "sentence-writing",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Item row 4",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg078-sec001-response-item-4",
+      "href": "pg078_sec001.html",
+      "sectionId": "pg078_sec001",
+      "sectionTitle": "Months of the year - questions and number table",
+      "sourcePdfPage": 78,
+      "printedPage": "72",
+      "taskType": "sentence-writing",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Item row 5",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg078-sec001-response-item-5",
+      "href": "pg078_sec001.html",
+      "sectionId": "pg078_sec001",
+      "sectionTitle": "Months of the year - questions and number table",
+      "sourcePdfPage": 78,
+      "printedPage": "72",
+      "taskType": "sentence-writing",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Item row 6",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg078-sec001-response-item-6",
+      "href": "pg078_sec001.html",
+      "sectionId": "pg078_sec001",
+      "sectionTitle": "Months of the year - questions and number table",
+      "sourcePdfPage": 78,
+      "printedPage": "72",
+      "taskType": "sentence-writing",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Item row 7",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg078-sec001-response-item-7",
+      "href": "pg078_sec001.html",
+      "sectionId": "pg078_sec001",
+      "sectionTitle": "Months of the year - questions and number table",
+      "sourcePdfPage": 78,
+      "printedPage": "72",
+      "taskType": "sentence-writing",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Item row 8",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg078-sec001-response-item-8",
+      "href": "pg078_sec001.html",
+      "sectionId": "pg078_sec001",
+      "sectionTitle": "Months of the year - questions and number table",
+      "sourcePdfPage": 78,
+      "printedPage": "72",
+      "taskType": "sentence-writing",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Item row 9",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg078-sec001-response-item-9",
+      "href": "pg078_sec001.html",
+      "sectionId": "pg078_sec001",
+      "sectionTitle": "Months of the year - questions and number table",
+      "sourcePdfPage": 78,
+      "printedPage": "72",
+      "taskType": "sentence-writing",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Item row 10",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg078-sec001-response-item-10",
+      "href": "pg078_sec001.html",
+      "sectionId": "pg078_sec001",
+      "sectionTitle": "Months of the year - questions and number table",
+      "sourcePdfPage": 78,
+      "printedPage": "72",
+      "taskType": "sentence-writing",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Item row 11",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg078-sec001-response-item-11",
+      "href": "pg078_sec001.html",
+      "sectionId": "pg078_sec001",
+      "sectionTitle": "Months of the year - questions and number table",
+      "sourcePdfPage": 78,
+      "printedPage": "72",
+      "taskType": "sentence-writing",
+      "expectedResponseCount": 1,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Item row 12",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "braille-keyboard",
+        "operating-system-braille-input"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": "The assessed objective is a language response. Task-useful spoken descriptions provide the required visual information; no spatial performance is assessed.",
+      "visualDescriptionTargetIds": [],
+      "brailleCode": null,
+      "translationTable": null,
+      "sixKeyInputEnabled": false,
+      "reviewStatus": "pending-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg078-sec001-response-group-1",
+      "href": "pg078_sec001.html",
+      "sectionId": "pg078_sec001",
+      "sectionTitle": "Months of the year - questions and number table",
+      "sourcePdfPage": 78,
+      "printedPage": "72",
+      "taskType": "sentence-writing",
+      "expectedResponseCount": 7,
+      "expectedResponseType": "text-entered-by-keyboard-or-braille",
+      "sourceControlType": "input",
+      "sharedInclusiveInstruction": "Answer the seven questions about months.",
       "inputMethods": [
         "keyboard",
         "braille-display",

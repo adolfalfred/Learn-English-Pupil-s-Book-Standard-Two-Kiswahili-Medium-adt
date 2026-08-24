@@ -13,9 +13,16 @@ main { padding: 1.5rem 0 9rem; }
 .source-flow { display: grid; gap: 1.25rem; min-width: 0; }
 .source-transcription { margin: 0; padding: 1.15rem 1.3rem; border: 2px solid var(--book-border); border-radius: 1.15rem; background: #fff; white-space: pre-line; font-size: clamp(1.25rem, 2.2vw, 1.55rem); line-height: 1.6; overflow-wrap: anywhere; box-shadow: 0 8px 22px rgb(25 70 80 / .06); }
 .source-plain-flow .source-transcription { padding: .1rem .2rem; border: 0; border-radius: 0; background: transparent; box-shadow: none; }
-[data-section-id="pg028_sec001"] .source-question-separator, [data-section-id="pg029_sec001"] .source-question-separator { margin-top: clamp(1.25rem, 2.4vw, 2rem); }
+[data-section-id="pg028_sec001"] .source-question-separator, [data-section-id="pg029_sec001"] .source-question-separator, [data-section-id="pg032_sec001"] .source-question-separator { margin-top: clamp(1.25rem, 2.4vw, 2rem); }
 [data-section-id="pg008_sec001"] .source-transcription, [data-section-id="pg009_sec001"] .source-transcription { padding: .1rem .2rem; border: 0; border-radius: 0; background: transparent; box-shadow: none; }
 .source-semantic-callout { position: relative; min-width: 0; box-sizing: border-box; }
+.source-semantic-question-panel { display: grid; gap: 1rem; margin: .5rem 0 1.2rem; padding: 1.25rem 1.5rem; border: 1.5px solid #79bcc9; border-radius: .8rem; background: #d8f3f6; color: var(--book-ink); }
+.source-semantic-question-item { display: grid; gap: .45rem; }
+.source-semantic-question-text, .source-semantic-question-example { margin: 0; font-size: clamp(1.2rem, 2.5vw, 1.75rem); line-height: 1.4; }
+.source-semantic-question-example { padding-left: 1.9rem; }
+.source-semantic-question-response { min-width: 0; margin: 0; padding: 0 0 0 1.9rem; border: 0; }
+.source-semantic-question-label { display: block; min-width: 0; }
+#content .source-semantic-question-input { width: min(100%, 45rem); min-height: 3.4rem; box-sizing: border-box; border: 2px solid #479ab4; border-radius: .65rem; background: #fff; padding: .65rem .8rem; color: var(--book-ink); font-family: "Sassoon Primary", "SassoonPrimary", sans-serif; font-size: clamp(1.15rem, 2.35vw, 1.55rem); }
 .source-questions-example { margin: 1.5rem 0 .2rem; padding: 2.35rem 1.25rem 1.1rem; border: 2px solid #479ab4; background: #d8f3f6; color: #2d2b2c; font-size: clamp(1.3rem, 2.45vw, 1.72rem); line-height: 1.42; }
 .source-questions-example .source-callout-tab { position: absolute; top: 0; left: -2px; min-width: min(13rem, 70%); margin: 0; padding: .25rem 1.1rem .35rem; transform: translateY(-54%); border-radius: 0 999px 999px 0; background: #479ab4; box-shadow: .45rem .35rem .35rem rgb(44 67 74 / .22); color: #fff; font-size: clamp(1.75rem, 3.2vw, 2.25rem); font-style: italic; font-weight: 800; line-height: 1.05; letter-spacing: .035em; }
 .source-questions-example .source-callout-copy { display: grid; gap: .65rem; }
@@ -54,6 +61,25 @@ main { padding: 1.5rem 0 9rem; }
 .source-semantic-exercise { position: relative; margin: 1.25rem 0 1.6rem; padding: clamp(4.6rem, 8vw, 5.8rem) clamp(1rem, 3.5vw, 2.25rem) 1.35rem; border-bottom: .28rem solid #ad3a50; background: #efd5d8; }
 .source-semantic-exercise .source-exercise-banner { position: absolute; top: -.7rem; left: clamp(1rem, 5vw, 3.5rem); margin: 0; }
 .source-exercise-instruction { margin: 0 0 1rem; font-size: clamp(1.35rem, 2.6vw, 1.85rem); line-height: 1.45; }
+.source-semantic-exercise-stack { display: grid; gap: .2rem; margin: 1.1rem 0 1.6rem; }
+.source-exercise-prelude-line { margin: 0; padding-inline: clamp(1rem, 3.5vw, 2.25rem); font-size: clamp(1.3rem, 2.45vw, 1.75rem); line-height: 1.42; }
+.source-exercise-four { margin-top: 1.2rem; }
+.source-exercise-example { margin: .8rem 0 0; font-size: clamp(1.3rem, 2.45vw, 1.75rem); line-height: 1.4; }
+.source-tongue-twister-box { width: min(100%, 52rem); box-sizing: border-box; margin: .3rem auto 1.8rem; padding: .8rem 1.35rem 1rem; border: 1.5px solid #db2777; background: #f9e3ed; }
+.source-tongue-twister-box .source-exercise-prelude-line { padding: 0; font-size: clamp(1.45rem, 2.8vw, 2rem); font-style: italic; line-height: 1.35; }
+.source-exercise-five { display: grid; gap: 1.5rem; padding-bottom: 1.2rem; }
+.source-exercise-word-section { display: grid; gap: .75rem; }
+.source-exercise-question { margin: 0; font-size: clamp(1.3rem, 2.5vw, 1.8rem); line-height: 1.45; }
+.source-exercise-word-table { width: 100%; table-layout: fixed; background: transparent; }
+.source-exercise-word-table td { border-color: #db2777; background: rgb(255 255 255 / .18); font-size: clamp(1.3rem, 2.45vw, 1.75rem); font-style: italic; text-align: center; }
+.source-exercise-five .midflow-response-card { margin: .1rem 0 0; background: rgb(255 255 255 / .62); }
+.source-exercise-six, .source-exercise-seven { display: grid; gap: 1.35rem; padding-bottom: 1.2rem; }
+.source-exercise-six .midflow-response-card, .source-exercise-seven .midflow-response-card { margin: .1rem 0 0; background: rgb(255 255 255 / .62); }
+.source-exercise-pair-list { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .5rem 2.5rem; margin: 0; padding: 0; list-style: none; }
+.source-exercise-pair-list li { margin: 0; color: var(--book-ink); font-size: clamp(1.3rem, 2.45vw, 1.75rem); font-style: italic; line-height: 1.35; }
+.source-exercise-word-list { margin: 0; color: var(--book-ink); font-size: clamp(1.3rem, 2.45vw, 1.75rem); font-style: italic; line-height: 1.45; }
+.source-exercise-seven .source-exercise-word-section + .source-exercise-word-section { padding-top: .9rem; border-top: 1px solid rgb(173 58 80 / .35); }
+.source-midflow-anchor { display: contents; }
 .source-exercise-accent { color: #e32636; }
 .source-exercise-items { display: grid; gap: .65rem; margin: 0; padding: 0; list-style: none; }
 .source-exercise-item { display: grid; grid-template-columns: minmax(7rem, 9rem) minmax(10rem, 1fr); gap: 1rem; align-items: center; min-width: 0; }
@@ -99,6 +125,12 @@ main { padding: 1.5rem 0 9rem; }
 .source-semantic-table-dense { font-size: clamp(.9rem, 1.75vw, 1.35rem); }
 .source-question-card.source-semantic-response-table-panel { gap: 0; border: 0; border-radius: 0; overflow: visible; background: transparent; box-shadow: none; }
 .source-semantic-table td.source-table-answer-cell { padding: .2rem .45rem; }
+.source-panel-semantic-footer { display: grid; gap: .8rem; margin: .3rem 0 1.2rem; color: var(--book-ink); }
+.source-panel-word-question { margin: 0; font-size: clamp(1.3rem, 2.8vw, 2rem); line-height: 1.35; }
+.source-panel-word-scroll { max-width: 100%; overflow-x: auto; }
+.source-panel-word-table { width: 100%; min-width: 35rem; border-collapse: collapse; table-layout: fixed; background: #f8dce9; }
+.source-panel-word-cell { min-width: 0; padding: .4rem .8rem; border: 1.5px solid #e5007d; background: #f8dce9; font-size: clamp(1.25rem, 2.6vw, 1.9rem); line-height: 1.2; }
+.source-panel-word-highlight { color: #ef2b30; }
 .source-table-response { min-width: 0; min-height: 3.5rem; margin: 0; padding: 0; border: 0; }
 .source-table-label { display: flex; width: 100%; min-height: 3.5rem; align-items: center; }
 #content .source-table-input { width: 100%; min-width: 0; min-height: 3rem; box-sizing: border-box; border: 0; border-bottom: .13rem solid #397d8d; border-radius: 0; background: #fffef6; padding: .45rem .55rem .25rem; color: var(--book-ink); font-family: "Sassoon Primary", "SassoonPrimary", sans-serif; font-size: clamp(1.15rem, 2.25vw, 1.55rem); line-height: 1.2; }
@@ -230,6 +262,8 @@ main { padding: 1.5rem 0 9rem; }
 .inline-response-card .response-grid { grid-template-columns: minmax(0, 1fr); }
 .response-prompt { max-width: 100%; padding: .35rem .8rem; border-radius: .75rem; background: linear-gradient(135deg, #df3c92, var(--book-pink)); color: #fff; font-size: clamp(1.25rem, 2.2vw, 1.5rem); font-weight: 800; line-height: 1.45; }
 .response-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; min-width: 0; }
+.ordering-grid .response-item { grid-template-columns: 2.2rem minmax(0, 1fr); align-items: center; }
+.ordering-position { color: var(--book-pink); font-size: 1.35rem; font-weight: 800; text-align: right; }
 .response-item { display: grid; gap: .45rem; min-width: 0; font-size: 1.25rem; }
 .response-item input, .response-item select, .writing-lines, .plain-typing-area { width: 100%; min-width: 0; min-height: 3.25rem; box-sizing: border-box; border: 2px solid #7db9c4; border-radius: .75rem; background-color: white; padding: .75rem; font-size: 1.25rem; }
 #content textarea.writing-lines { --handwriting-row-height: 4rem; --writing-row-count: 3; min-height: calc(var(--handwriting-row-height) * var(--writing-row-count) + .25rem); resize: vertical; padding: 0 1rem; background-color: #fff; background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAAB1CAIAAACEbjliAAACbElEQVR42u3dsU5TURjA8e/gDU2JA1FwbGRSQV00juALyCyT4ktgNL6EccXVOJjoM5j4HrqpiTQQBbT0cwBaUFw4RUn8/aZOd/jyz72nh95DycyAURszAoSFsBAWjFx58uixKbCfQymZEeXr5rc7i4sLtxeOfaXm+eqqeTJMKyIj1ta6nU6nKqxXb16bJgOZWUrp9XozF2eqArWPhcU7wkJY8PtKS1icyLaDsPAoRFggLISFsEBYCAthgbAQFsICYSEshAXCQlgIC4SFsBAWCAthISwQFv9S46wZ4vDhWLsfasMqxslARil7bUVmVLxo71HIEfet3fMbrLEYbVO7N6+qVVKz8fadeTLMKSL7/eb8ufbcXM1Sq/ny4qVxcvCe1d/ebl+/NnF1ruo62+8/mCaD+1WJzH6OTbSb6emaU7IcbsuReVVvN4SuOHCf2f82mBlRKgJrwkYWB5dYmVEio/asSI9Cwt8KERbCAmEhLIQFwkJYCAuEhbAQFggLYfH/aXqfPpsCMfhn0KVE5tj4+JnJyaqwPj59Zpwc+lXy9x+ty5emHtyrCuvs/Lx5MnwTOjJ3dpoLU5W/fPcLUv74VPSKPaN8YXXvk1fsiRN4x77YbiDsYyEsEBbCQlggLISFsEBYCAthgbAQFsICYSEshAXCQlgIC4SFsBAWCAthISwQFsJCWCAshIWwQFj8deXWjZumwF4NpURmidLdWF95uHJ/efnYl2ruLi0ZKMODRzNKxObW1uyV2aordbtd8yR+PYo72+12q9VyzjsW75zue5WwOJH1+0jaEhZHfTcUFtZYCAuEhbAQFgiL0+YnPeWDRKZkn6wAAAAASUVORK5CYII="); background-repeat: repeat-y; background-position: left .4rem; background-size: 112.5% var(--handwriting-row-height); background-attachment: local; font-size: 1.75rem; line-height: var(--handwriting-row-height); }
@@ -256,6 +290,7 @@ main { padding: 1.5rem 0 9rem; }
 .book-toc[data-toc-ready="error"] .book-toc-page { color: #9a2f2f; }
 @media (max-width: 640px) {
   .source-semantic-table-scroll { width: 100%; }
+  .source-exercise-pair-list { grid-template-columns: minmax(0, 1fr); }
   main { padding: .5rem 0 13rem; }
   #content { padding: 1.25rem !important; border-radius: 0; }
   .preliminary-page-body main { padding: 0 0 13rem; }
