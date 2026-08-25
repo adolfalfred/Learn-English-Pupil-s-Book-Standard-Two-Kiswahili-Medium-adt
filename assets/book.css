@@ -1,5 +1,5 @@
 
-:root { color-scheme: light; --book-blue: #298fcf; --book-blue-dark: #176b96; --book-pink: #cc1673; --book-olive: #9ca22e; --book-ink: #292425; --book-border: #b8e1e5; --unit-bar: #c4c247; --unit-border: #908f30; --unit-topic: #316a7e; --source-heading-blue: #50a1de; --source-activity-pink: #c42071; }
+:root { color-scheme: light; --book-blue: #298fcf; --book-blue-dark: #176b96; --book-pink: #cc1673; --book-olive: #9ca22e; --book-ink: #292425; --book-border: #b8e1e5; --unit-bar: #c4c247; --unit-border: #908f30; --unit-topic: #316a7e; --source-heading-blue: #50a1de; --source-activity-pink: #c42071; --source-question-font-size: clamp(1.3rem, 2.5vw, 1.75rem); }
 html, body { margin: 0; min-width: 0; overflow-x: hidden; background: #edf8f9; }
 body { color: var(--book-ink); }
 main { padding: 1.5rem 0 9rem; }
@@ -11,14 +11,14 @@ main { padding: 1.5rem 0 9rem; }
 .unit-topic { display: block; color: var(--unit-topic); font-size: clamp(2.25rem, 5vw, 3.35rem); font-style: normal; font-weight: 800; line-height: 1.12; letter-spacing: .015em; text-wrap: balance; }
 .lesson-page .book-page-title, .activity-page .book-page-title, .content-page .book-page-title { border: 2px solid var(--book-border); border-radius: 1.15rem; background: #fff; padding: 1rem 1.25rem; box-shadow: 0 8px 22px rgb(25 70 80 / .07); }
 .source-flow { display: grid; gap: 1.25rem; min-width: 0; }
-.source-transcription { margin: 0; padding: 1.15rem 1.3rem; border: 2px solid var(--book-border); border-radius: 1.15rem; background: #fff; white-space: pre-line; font-size: clamp(1.25rem, 2.2vw, 1.55rem); line-height: 1.6; overflow-wrap: anywhere; box-shadow: 0 8px 22px rgb(25 70 80 / .06); }
+.source-transcription { margin: 0; padding: 1.15rem 1.3rem; border: 2px solid var(--book-border); border-radius: 1.15rem; background: #fff; white-space: pre-line; font-size: var(--source-question-font-size); line-height: 1.6; overflow-wrap: anywhere; box-shadow: 0 8px 22px rgb(25 70 80 / .06); }
 .source-plain-flow .source-transcription { padding: .1rem .2rem; border: 0; border-radius: 0; background: transparent; box-shadow: none; }
 [data-section-id="pg028_sec001"] .source-question-separator, [data-section-id="pg029_sec001"] .source-question-separator, [data-section-id="pg032_sec001"] .source-question-separator { margin-top: clamp(1.25rem, 2.4vw, 2rem); }
 [data-section-id="pg008_sec001"] .source-transcription, [data-section-id="pg009_sec001"] .source-transcription { padding: .1rem .2rem; border: 0; border-radius: 0; background: transparent; box-shadow: none; }
 .source-semantic-callout { position: relative; min-width: 0; box-sizing: border-box; }
 .source-semantic-question-panel { display: grid; gap: 1rem; margin: .5rem 0 1.2rem; padding: 1.25rem 1.5rem; border: 1.5px solid #79bcc9; border-radius: .8rem; background: #d8f3f6; color: var(--book-ink); }
 .source-semantic-question-item { display: grid; gap: .45rem; }
-.source-semantic-question-text, .source-semantic-question-example { margin: 0; font-size: clamp(1.2rem, 2.5vw, 1.75rem); line-height: 1.4; }
+.source-semantic-question-text, .source-semantic-question-example { margin: 0; font-size: var(--source-question-font-size); line-height: 1.4; }
 .source-semantic-question-example { padding-left: 1.9rem; }
 .source-semantic-question-response { min-width: 0; margin: 0; padding: 0 0 0 1.9rem; border: 0; }
 .source-semantic-question-label { display: block; min-width: 0; }
@@ -69,7 +69,7 @@ main { padding: 1.5rem 0 9rem; }
 .source-tongue-twister-box .source-exercise-prelude-line { padding: 0; font-size: clamp(1.45rem, 2.8vw, 2rem); font-style: italic; line-height: 1.35; }
 .source-exercise-five { display: grid; gap: 1.5rem; padding-bottom: 1.2rem; }
 .source-exercise-word-section { display: grid; gap: .75rem; }
-.source-exercise-question { margin: 0; font-size: clamp(1.3rem, 2.5vw, 1.8rem); line-height: 1.45; }
+.source-exercise-question { margin: 0; font-size: var(--source-question-font-size); line-height: 1.45; }
 .source-exercise-word-table { width: 100%; table-layout: fixed; background: transparent; }
 .source-exercise-word-table td { border-color: #db2777; background: rgb(255 255 255 / .18); font-size: clamp(1.3rem, 2.45vw, 1.75rem); font-style: italic; text-align: center; }
 .source-exercise-five .midflow-response-card { margin: .1rem 0 0; background: rgb(255 255 255 / .62); }
@@ -125,11 +125,11 @@ main { padding: 1.5rem 0 9rem; }
 .source-semantic-table-dense { font-size: clamp(.9rem, 1.75vw, 1.35rem); }
 .source-question-card.source-semantic-response-table-panel { gap: 0; border: 0; border-radius: 0; overflow: visible; background: transparent; box-shadow: none; }
 .source-semantic-table td.source-table-answer-cell { padding: .2rem .45rem; }
-.source-panel-semantic-footer { display: grid; gap: .8rem; margin: .3rem 0 1.2rem; color: var(--book-ink); }
-.source-panel-word-question { margin: 0; font-size: clamp(1.3rem, 2.8vw, 2rem); line-height: 1.35; }
+.source-panel-semantic-footer { display: block; margin: .3rem 0 1.2rem; color: var(--book-ink); font-size: var(--source-question-font-size); line-height: 1.6; white-space: pre-line; overflow-wrap: anywhere; }
+.source-panel-word-question { margin: 0 0 .8rem; font-size: inherit; line-height: inherit; }
 .source-panel-word-scroll { max-width: 100%; overflow-x: auto; }
 .source-panel-word-table { width: 100%; min-width: 35rem; border-collapse: collapse; table-layout: fixed; background: #f8dce9; }
-.source-panel-word-cell { min-width: 0; padding: .4rem .8rem; border: 1.5px solid #e5007d; background: #f8dce9; font-size: clamp(1.25rem, 2.6vw, 1.9rem); line-height: 1.2; }
+.source-panel-word-cell { min-width: 0; padding: .4rem .8rem; border: 1.5px solid #e5007d; background: #f8dce9; font-size: inherit; line-height: 1.2; }
 .source-panel-word-highlight { color: #ef2b30; }
 .source-table-response { min-width: 0; min-height: 3.5rem; margin: 0; padding: 0; border: 0; }
 .source-table-label { display: flex; width: 100%; min-height: 3.5rem; align-items: center; }
@@ -289,6 +289,7 @@ main { padding: 1.5rem 0 9rem; }
 .book-toc-item--preliminary .book-toc-link { font-weight: 700; }
 .book-toc[data-toc-ready="error"] .book-toc-page { color: #9a2f2f; }
 @media (max-width: 640px) {
+  :root { --source-question-font-size: 1.25rem; }
   .source-semantic-table-scroll { width: 100%; }
   .source-exercise-pair-list { grid-template-columns: minmax(0, 1fr); }
   main { padding: .5rem 0 13rem; }
