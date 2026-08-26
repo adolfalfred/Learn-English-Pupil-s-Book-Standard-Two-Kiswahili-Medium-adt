@@ -203,7 +203,6 @@ main { padding: 1.5rem 0 9rem; }
 .publication-page .publication-row .book-external-link { display: inline; overflow-wrap: normal; }
 .publication-page .publication-rights { margin-top: 7.8rem; }
 .publication-page .publication-rights p { line-height: 1.55; text-align: justify; }
-.publication-page .preliminary-page-number { margin-top: auto; margin-bottom: 0; padding-bottom: 0; }
 .acknowledgements-page-body { background: #dff7f8; }
 .acknowledgements-page-body main { padding: 1.5rem 0 9rem; }
 #content.acknowledgements-page-container { width: min(calc(100% - 2rem), 58rem); min-height: 0; margin-inline: auto; box-sizing: border-box; padding: clamp(2.5rem, 5vw, 4.25rem) clamp(2rem, 7vw, 5rem) clamp(3rem, 6vw, 5rem); border-radius: .35rem; background: #fff; box-shadow: 0 1rem 3rem rgb(30 81 94 / .14); }
@@ -240,7 +239,6 @@ main { padding: 1.5rem 0 9rem; }
 .introduction-page .semantic-source-figure { margin: .8rem 0 0; }
 .introduction-page .qr-code-image { width: 7.25rem; height: 7.25rem; }
 .introduction-page .preliminary-institute { margin: 1.6rem 0 0; color: var(--book-ink); font-size: clamp(1.35rem, 2.2vw, 1.65rem); font-weight: 800; text-align: right; }
-.introduction-page .preliminary-page-number { margin-top: auto; margin-bottom: 0; padding-bottom: 0; }
 .resource-card { grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 1.25rem; }
 .resource-copy { min-width: 0; }
 .qr-code-image { display: block; width: 9rem; height: 9rem; object-fit: contain; }
@@ -269,8 +267,6 @@ main { padding: 1.5rem 0 9rem; }
 #content textarea.writing-lines { --handwriting-row-height: 4rem; --writing-row-count: 3; min-height: calc(var(--handwriting-row-height) * var(--writing-row-count) + .25rem); resize: vertical; padding: 0 1rem; background-color: #fff; background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAAB1CAIAAACEbjliAAACbElEQVR42u3dsU5TURjA8e/gDU2JA1FwbGRSQV00juALyCyT4ktgNL6EccXVOJjoM5j4HrqpiTQQBbT0cwBaUFw4RUn8/aZOd/jyz72nh95DycyAURszAoSFsBAWjFx58uixKbCfQymZEeXr5rc7i4sLtxeOfaXm+eqqeTJMKyIj1ta6nU6nKqxXb16bJgOZWUrp9XozF2eqArWPhcU7wkJY8PtKS1icyLaDsPAoRFggLISFsEBYCAthgbAQFsICYSEshAXCQlgIC4SFsBAWCAthISwQFv9S46wZ4vDhWLsfasMqxslARil7bUVmVLxo71HIEfet3fMbrLEYbVO7N6+qVVKz8fadeTLMKSL7/eb8ufbcXM1Sq/ny4qVxcvCe1d/ebl+/NnF1ruo62+8/mCaD+1WJzH6OTbSb6emaU7IcbsuReVVvN4SuOHCf2f82mBlRKgJrwkYWB5dYmVEio/asSI9Cwt8KERbCAmEhLIQFwkJYCAuEhbAQFggLYfH/aXqfPpsCMfhn0KVE5tj4+JnJyaqwPj59Zpwc+lXy9x+ty5emHtyrCuvs/Lx5MnwTOjJ3dpoLU5W/fPcLUv74VPSKPaN8YXXvk1fsiRN4x77YbiDsYyEsEBbCQlggLISFsEBYCAthgbAQFsICYSEshAXCQlgIC4SFsBAWCAthISwQFsJCWCAshIWwQFj8deXWjZumwF4NpURmidLdWF95uHJ/efnYl2ruLi0ZKMODRzNKxObW1uyV2aordbtd8yR+PYo72+12q9VyzjsW75zue5WwOJH1+0jaEhZHfTcUFtZYCAuEhbAQFgiL0+YnPeWDRKZkn6wAAAAASUVORK5CYII="); background-repeat: repeat-y; background-position: left .4rem; background-size: 112.5% var(--handwriting-row-height); background-attachment: local; font-size: 1.75rem; line-height: var(--handwriting-row-height); }
 #content textarea.plain-typing-area { min-height: 10rem; resize: vertical; padding: 1rem; background: #fff; font-size: 1.5rem; line-height: 1.5; }
 .response-item input:focus, .response-item select:focus, .writing-lines:focus, .plain-typing-area:focus, a:focus-visible { outline: .25rem solid #f2bd24; outline-offset: .15rem; }
-.printed-page-number { width: max-content; margin: 2rem auto 0; padding: .35rem .8rem; border-radius: 0; background: transparent; color: var(--book-blue-dark); font-size: 1.2rem; font-weight: 800; text-align: center; }
-.preliminary-page-number { margin-bottom: 2rem; font-variant-numeric: oldstyle-nums; }
 .external-reference { margin: 1.25rem 0; padding: 1rem; border-radius: .8rem; background: #fff7db; font-size: 1.25rem; overflow-wrap: anywhere; }
 .external-reference a { display: inline-block; min-height: 2.75rem; padding: .55rem .8rem; color: #074f9c; text-decoration: underline; }
 .publication-contact { display: grid; gap: .75rem; margin: 1.25rem 0; padding: 1rem; border-radius: .8rem; background: #eef7ff; font-style: normal; font-size: 1.25rem; font-variant-numeric: tabular-nums; }
