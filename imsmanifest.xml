@@ -20,6 +20,11 @@
   <resources>
     <resource identifier="RESOURCE_1" type="webcontent" adlcp:scormtype="sco" href="index.html">
       <file href="assets/base.bundle.local.js"/>
+      <file href="assets/media-playback-independence.js"/>
+      <file href="assets/mobile-sheet-drag.css"/>
+      <file href="assets/mobile-sheet-drag.js"/>
+      <file href="assets/reader-chrome-overrides.css"/>
+      <file href="assets/reader-runtime.css"/>
       <file href="assets/book-source-markup.js"/>
       <file href="assets/book.css"/>
       <file href="assets/config.json"/>

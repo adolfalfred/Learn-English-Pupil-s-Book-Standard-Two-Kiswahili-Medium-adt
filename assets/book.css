@@ -322,7 +322,5 @@ main { padding: 1.5rem 0 9rem; }
   .credit-grid, .resource-card { grid-template-columns: minmax(0, 1fr); }
   .qr-code-image { width: 8rem; height: 8rem; }
   .preliminary-institute { text-align: left; }
-  #nav-container [class*="fixed"], #interface-container [class*="fixed"] { max-width: calc(100vw - .5rem) !important; flex-wrap: wrap !important; }
-  #nav-container button, #interface-container button { min-width: 2.75rem; min-height: 2.75rem; }
 }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { scroll-behavior: auto !important; transition: none !important; animation: none !important; } }
